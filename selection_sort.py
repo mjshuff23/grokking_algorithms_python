@@ -17,4 +17,5 @@ def selection_sort(arr):
     return newArr  # Return our new, sorted list
 
 
+# What is this time complexity? I believe O(n^2)
 print(selection_sort([6, 3, 1, 0, 9, 10, 1, -5, 4]))
